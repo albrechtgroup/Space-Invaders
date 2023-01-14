@@ -26,5 +26,13 @@ h1 {
 }
 
 .shooter {
-    background-color: grey;
+    background-color: green;
+}
+
+.laser {
+    background-color: orange;
+} 
+
+.boom { 
+    background-color: red;
 }
