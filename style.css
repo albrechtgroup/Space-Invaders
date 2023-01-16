@@ -20,6 +20,10 @@ h1 {
     height: 20px;
 }
 
+.grid {
+    background-color: skyblue;
+}
+
 .invader {
     background-color: purple;
     border-radius: 10px;
